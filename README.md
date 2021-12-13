@@ -1,7 +1,9 @@
 ### Hi there, I'm Fredson Silva and welcome to my profile 👋
 
 - 🔭 I’m currently studying Analysis and systems development
+- 🔭 Estudante de Análise e desenvolvimento de sistemas
 - 🌱 Front-end
+- 🌱 Back-end
 
 <div align="center">
   <a href="https://github.com/silvafredson">
