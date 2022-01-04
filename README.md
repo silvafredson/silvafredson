@@ -1,6 +1,6 @@
 ### Hi there, I'm Fredson Silva and welcome to my profile 👋
 
-- I’m currently studying Analysis and systems development
+- I'm majoring in Systems Analysis and Development
 - Graduando em Análise e desenvolvimento de sistemas
 
 
