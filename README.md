@@ -3,12 +3,6 @@
 - I'm majoring in Systems Analysis and Development
 - Graduando em Análise e desenvolvimento de sistemas
 
- <br>
-
-- Swift
-- SwiftUI
-- UIKit
-
 <br>
 
 <div align="center">
