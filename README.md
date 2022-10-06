@@ -1,7 +1,6 @@
 ### Hi there, I'm Fredson Silva and welcome to my profile 👋
 
-- I'm majoring in Systems Analysis and Development
-- Graduando em Análise e desenvolvimento de sistemas
+- I'm majoring in Mobile Development Technology
 
 <br>
 
