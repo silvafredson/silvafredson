@@ -1,6 +1,8 @@
 ### Hi there, I'm Fredson Silva and welcome to my profile 👋
 
 - I'm a Native iOS Developer
+- UIKit Storyboard and Programmatically
+- SwiftUI
 
 <br>
 
